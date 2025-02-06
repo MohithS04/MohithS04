@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis and Data Engineering
 - 🌱 I’m currently learning Python, MachineLearning and Cloud
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email at seelammohithreddy@yahoo.com
+- 📫 How to reach me email at seelammohithreddy04@gmail.com
 
 <!---
 MohithS04/MohithS04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
