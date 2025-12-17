@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis and Data Scientist
 - 🌱 I’m currently learning Python, MachineLearning and Cloud
 - 💞️ I’m looking to collaborate on Linkedin https://www.linkedin.com/in/mohith-reddy-seelam-48886919b/
-- 📫 How to reach me email at seelammohithreddy04@gmail.com
+- 📫 How to reach me email at mohithreddy04@yahoo.com
 
 <!---
 MohithS04/MohithS04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
